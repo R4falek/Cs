@@ -1,0 +1,15 @@
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\rafal\source\repos\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\rafal\source\repos\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.Settings.resources
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.StartWindow.resources
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.MatchingGameMedium.resources
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.MatchingGameEasy.resources
+C:\Users\rafal\source\repos\Memory\Memory\obj\Debug\Memory.MatchingGameHard.resources
